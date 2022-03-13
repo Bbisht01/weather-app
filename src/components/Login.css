@@ -1,0 +1,25 @@
+.login_form{
+    border: 1px solid rgb(182, 181, 181);
+    width: 25%;
+    margin: auto;
+    margin-top: 5%;
+    height: 450px;
+    line-height: 3;
+    border-radius: 10px;
+    background-color: whitesmoke;
+
+}
+.login_form input{
+    font-size: 16px;
+    height: 15px;
+    width: 75%;
+}
+.login_form #btn{
+    background-color: black;
+    color: white;
+    border: none;
+    font-size: 16px;
+    padding: 10px;
+    height: 40px;
+    width: 80%;
+}
